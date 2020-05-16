@@ -1,6 +1,6 @@
 # fgo-index
 
-> My astonishing Nuxt.js project
+>Nuxt.js FirebaseのCloud Firestoreを利用し遊んだ
 
 ## Build Setup
 
